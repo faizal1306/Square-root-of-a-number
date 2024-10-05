@@ -30,7 +30,8 @@ print(f"Square root of the number: {n}")
 ```
 
 ## Output:
-![Uploading Screenshot 2024-10-05 212208.png…]()
+![Uploading image.png…]()
+
 
 
 
